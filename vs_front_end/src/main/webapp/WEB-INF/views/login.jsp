@@ -34,7 +34,7 @@
 				<ul class="nav nav-pills flex-column">
 					<li class="nav-item"><a class="nav-link active"
 						href="${pageContext.request.contextPath}/login">Login</a></li>
-					<li class="nav-item"><a class="nav-link" href="#">Register</a>
+					<li class="nav-item"><a class="nav-link" href="${pageContext.request.contextPath}/register">Register</a>
 					</li>
 
 				</ul>
